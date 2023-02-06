@@ -3,8 +3,8 @@ class Jenkinsdiagram < Formula
 
   desc "Generate mermaid diagrams from Jenkins pipelines"
   homepage "https://github.com/IdiosApps/jenkinsdiagram"
-  url "https://files.pythonhosted.org/packages/1d/ea/bf1ef39855d4645dad3207a110b419dc7e500747f54442e4736c037513e3/jenkinsdiagram-1.0.0.tar.gz"
-  sha256 "eaf72bf983246d000fe2f239115c55ce1cbdea76f96b2247aa9acfa6debcbb36"
+  url "https://files.pythonhosted.org/packages/21/0d/616c4906209c1533a6c33f956b2bfbf62bee1b314defeefb402efbba95fa/jenkinsdiagram-1.0.1.tar.gz"
+  sha256 "3e715d46c2d67951a5954a6236d07ef87dd53dd8fd33e7a4ae9b5f039a5130ed"
 
   depends_on "python3"
 
